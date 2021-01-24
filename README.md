@@ -24,6 +24,6 @@ The following **requirements** functionality are completed:
 
 
 ## Compilation Instructions:
-	* cd ELSA/sprint4/src/
-	* make
-	* ./elsa
+	> cd ELSA/sprint4/src/
+	> make
+	> ./elsa
