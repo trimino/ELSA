@@ -17,14 +17,13 @@ The following **requirements** functionality are completed:
 
 
 
+## Software Requirements
+
+* g++ compiler (c17 or greater)
+* gtkmm 
 
 
-* Software Requirements:
-	* g++ compiler (c17 or greater)
-	* gtkmm 
-
-
-* Compilation Instructions:
+## Compilation Instructions:
 	* cd ELSA/sprint4/src/
 	* make
 	* ./elsa
